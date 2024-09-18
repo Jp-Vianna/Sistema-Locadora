@@ -1,1 +1,1 @@
-Um sistema que utiliza apenas Java que simula uma locadora de veículos. Programação orientada a objetos e arquitetura em camadas. O sistema funciona integrado a um banco de dados relacional que armazena dados de clientes, veículos e locações.
+Um sistema Java que simula uma locadora de veículos. Programação orientada a objetos e arquitetura em camadas. O sistema funciona integrado a um banco de dados relacional que armazena dados de clientes, veículos e locações.
